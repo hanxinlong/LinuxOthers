@@ -26,3 +26,4 @@ vim /etc/selinux/config  #修改这个文件永久关闭
 SELINUX=disabled         #这个选项要改成这个值
 
 ```
+当地的v上的v说的v的v
